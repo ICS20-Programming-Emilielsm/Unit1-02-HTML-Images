@@ -1,12 +1,1 @@
-<!DOCTYPE html>
- <html>
-<head>
-  <meta charset="utf-8">
-    <title> My second Webpage!</title>
-  </head>
-
-  <body>
-  <h1>My Webpage With Images!</h1>
-  <p>Now I can display Images </p>
-  <img src=“hello_world.png” alt=“Hello world”>
-  </body>
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-Emilielsm/Unit1-02-HTML-Images/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-Emilielsm/Unit1-02-HTML-Images/actions)
